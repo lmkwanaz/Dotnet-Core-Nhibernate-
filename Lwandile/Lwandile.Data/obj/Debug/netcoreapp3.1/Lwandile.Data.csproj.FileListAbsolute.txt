@@ -1,0 +1,16 @@
+C:\Users\Neo.mkwanazi\source\repos\Lwandile\Lwandile.Data\bin\Debug\netcoreapp3.1\Lwandile.Data.deps.json
+C:\Users\Neo.mkwanazi\source\repos\Lwandile\Lwandile.Data\bin\Debug\netcoreapp3.1\Lwandile.Data.dll
+C:\Users\Neo.mkwanazi\source\repos\Lwandile\Lwandile.Data\bin\Debug\netcoreapp3.1\Lwandile.Data.pdb
+C:\Users\Neo.mkwanazi\source\repos\Lwandile\Lwandile.Data\bin\Debug\netcoreapp3.1\ICM.JHB.Utility.dll
+C:\Users\Neo.mkwanazi\source\repos\Lwandile\Lwandile.Data\bin\Debug\netcoreapp3.1\ServiceModelEx.dll
+C:\Users\Neo.mkwanazi\source\repos\Lwandile\Lwandile.Data\bin\Debug\netcoreapp3.1\Ninject.Core.dll
+C:\Users\Neo.mkwanazi\source\repos\Lwandile\Lwandile.Data\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Neo.mkwanazi\source\repos\Lwandile\Lwandile.Data\bin\Debug\netcoreapp3.1\ICM.JHB.Utility.pdb
+C:\Users\Neo.mkwanazi\source\repos\Lwandile\Lwandile.Data\bin\Debug\netcoreapp3.1\Ninject.Core.xml
+C:\Users\Neo.mkwanazi\source\repos\Lwandile\Lwandile.Data\obj\Debug\netcoreapp3.1\Lwandile.Data.csprojAssemblyReference.cache
+C:\Users\Neo.mkwanazi\source\repos\Lwandile\Lwandile.Data\obj\Debug\netcoreapp3.1\Lwandile.Data.AssemblyInfoInputs.cache
+C:\Users\Neo.mkwanazi\source\repos\Lwandile\Lwandile.Data\obj\Debug\netcoreapp3.1\Lwandile.Data.AssemblyInfo.cs
+C:\Users\Neo.mkwanazi\source\repos\Lwandile\Lwandile.Data\obj\Debug\netcoreapp3.1\Lwandile.Data.csproj.CopyComplete
+C:\Users\Neo.mkwanazi\source\repos\Lwandile\Lwandile.Data\obj\Debug\netcoreapp3.1\Lwandile.Data.dll
+C:\Users\Neo.mkwanazi\source\repos\Lwandile\Lwandile.Data\obj\Debug\netcoreapp3.1\Lwandile.Data.pdb
+C:\Users\Neo.mkwanazi\source\repos\Lwandile\Lwandile.Data\obj\Debug\netcoreapp3.1\Lwandile.Data.csproj.CoreCompileInputs.cache

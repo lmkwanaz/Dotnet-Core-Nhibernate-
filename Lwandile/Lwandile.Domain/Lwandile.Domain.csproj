@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lwandile.Data\Lwandile.Data.csproj" />
+    <ProjectReference Include="..\Lwandile.Repository\Lwandile.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

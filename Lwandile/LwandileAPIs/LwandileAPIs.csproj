@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CoreIoC.Ninject" Version="3.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.7">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+    <PackageReference Include="Ninject" Version="3.3.4" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.5.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUi" Version="5.5.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\..\..\TFSWorkspace\appbase\Utility\ICM.JHB.Utility\ICM.JHB.Utility.csproj" />
+    <ProjectReference Include="..\Lwandile.Data\Lwandile.Data.csproj" />
+    <ProjectReference Include="..\Lwandile.Domain\Lwandile.Domain.csproj" />
+    <ProjectReference Include="..\Lwandile.Repository\Lwandile.Repository.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Ninject.Core">
+      <HintPath>..\..\..\..\..\..\TFSWorkspace\appbase\ThirdParty\Ninject\Ninject.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+
+</Project>

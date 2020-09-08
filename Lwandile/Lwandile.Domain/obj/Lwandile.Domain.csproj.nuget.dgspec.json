@@ -1,0 +1,228 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Neo.mkwanazi\\source\\repos\\Lwandile\\Lwandile.Domain\\Lwandile.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\TFSWorkspace\\appbase\\Utility\\ICM.JHB.Utility\\ICM.JHB.Utility.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\TFSWorkspace\\appbase\\Utility\\ICM.JHB.Utility\\ICM.JHB.Utility.csproj",
+        "projectName": "ICM.JHB.Utility",
+        "projectPath": "C:\\TFSWorkspace\\appbase\\Utility\\ICM.JHB.Utility\\ICM.JHB.Utility.csproj"
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "C:\\Users\\Neo.mkwanazi\\source\\repos\\Lwandile\\Lwandile.Data\\Lwandile.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Neo.mkwanazi\\source\\repos\\Lwandile\\Lwandile.Data\\Lwandile.Data.csproj",
+        "projectName": "Lwandile.Data",
+        "projectPath": "C:\\Users\\Neo.mkwanazi\\source\\repos\\Lwandile\\Lwandile.Data\\Lwandile.Data.csproj",
+        "packagesPath": "C:\\Users\\Neo.mkwanazi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Neo.mkwanazi\\source\\repos\\Lwandile\\Lwandile.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Neo.mkwanazi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://digitalnexus.investec.com/repository/icib-sa-nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\TFSWorkspace\\appbase\\Utility\\ICM.JHB.Utility\\ICM.JHB.Utility.csproj": {
+                "projectPath": "C:\\TFSWorkspace\\appbase\\Utility\\ICM.JHB.Utility\\ICM.JHB.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentNHibernate": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "NSessionService": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Neo.mkwanazi\\source\\repos\\Lwandile\\Lwandile.Domain\\Lwandile.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Neo.mkwanazi\\source\\repos\\Lwandile\\Lwandile.Domain\\Lwandile.Domain.csproj",
+        "projectName": "Lwandile.Domain",
+        "projectPath": "C:\\Users\\Neo.mkwanazi\\source\\repos\\Lwandile\\Lwandile.Domain\\Lwandile.Domain.csproj",
+        "packagesPath": "C:\\Users\\Neo.mkwanazi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Neo.mkwanazi\\source\\repos\\Lwandile\\Lwandile.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Neo.mkwanazi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://digitalnexus.investec.com/repository/icib-sa-nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Neo.mkwanazi\\source\\repos\\Lwandile\\Lwandile.Data\\Lwandile.Data.csproj": {
+                "projectPath": "C:\\Users\\Neo.mkwanazi\\source\\repos\\Lwandile\\Lwandile.Data\\Lwandile.Data.csproj"
+              },
+              "C:\\Users\\Neo.mkwanazi\\source\\repos\\Lwandile\\Lwandile.Repository\\Lwandile.Repository.csproj": {
+                "projectPath": "C:\\Users\\Neo.mkwanazi\\source\\repos\\Lwandile\\Lwandile.Repository\\Lwandile.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Neo.mkwanazi\\source\\repos\\Lwandile\\Lwandile.Repository\\Lwandile.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Neo.mkwanazi\\source\\repos\\Lwandile\\Lwandile.Repository\\Lwandile.Repository.csproj",
+        "projectName": "Lwandile.Repository",
+        "projectPath": "C:\\Users\\Neo.mkwanazi\\source\\repos\\Lwandile\\Lwandile.Repository\\Lwandile.Repository.csproj",
+        "packagesPath": "C:\\Users\\Neo.mkwanazi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Neo.mkwanazi\\source\\repos\\Lwandile\\Lwandile.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Neo.mkwanazi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://digitalnexus.investec.com/repository/icib-sa-nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Neo.mkwanazi\\source\\repos\\Lwandile\\Lwandile.Data\\Lwandile.Data.csproj": {
+                "projectPath": "C:\\Users\\Neo.mkwanazi\\source\\repos\\Lwandile\\Lwandile.Data\\Lwandile.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
